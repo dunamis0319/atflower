@@ -1,6 +1,10 @@
 body{
 font-family:"Avenir Next";
 }
+.header{
+  background-color:blue;
+  height:90px;
+}
 
 h1{
 color:red;
